@@ -42,3 +42,6 @@ This project involves analyzing insurance-related data provided in five CSV file
 - Analyze customer demographics and purchase behavior.
 - Track premium trends and settlement rates.
 - Generate visual reports to identify patterns in policy sales and settlement rates.
+
+## Link For Live DashBoard
+https://app.powerbi.com/view?r=eyJrIjoiMmEwNTU5MDItMzJmZi00OTZlLTlmNjItMjg5NmRhYWNhNjAxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
